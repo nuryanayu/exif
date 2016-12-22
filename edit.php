@@ -1,5 +1,6 @@
 <?php 
 //exif file data
+//data yang ditambahkan lagi
  $exif = exif_read_data('edit.jpg',null,true,true);
  ?>
  <pre>
