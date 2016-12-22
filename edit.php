@@ -1,4 +1,5 @@
 <?php 
+//exif file data
  $exif = exif_read_data('edit.jpg',null,true,true);
  ?>
  <pre>
